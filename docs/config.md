@@ -130,7 +130,7 @@ ExternalBoardOptions:
       enabled: false
       # Redirect locale code to certain AuthMe language code as you want
       # Minecraft locale list: https://minecraft.wiki/w/Language
-      # AuthMe language code: https://github.com/HaHaWTH/AuthMeReReloaded/blob/master/docs/translations.md
+      # AuthMe language code: https://github.com/DarkSpirit006/AuthMeReReloaded/blob/master/docs/translations.md
       # For example, if you want to show Russian messages to player using language Tatar(tt_ru),
       # and show Chinese Simplified messages to player using language Classical Chinese(lzh), then:
       # locale-code-redirect:
@@ -691,5 +691,5 @@ To change settings on a running server, save your changes to config.yml and use
 ---
 
 This page was automatically generated on
-the [HaHaWTH/AuthMeReReloaded repository](https://github.com/HaHaWTH/AuthMeReReloaded/tree/master/docs/) on Wed May 29
+the [DarkSpirit006/AuthMeReReloaded repository](https://github.com/DarkSpirit006/AuthMeReReloaded/tree/master/docs/) on Wed May 29
 21:00:00 CST 2024

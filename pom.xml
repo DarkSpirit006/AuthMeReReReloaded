@@ -11,17 +11,17 @@
     <name>AuthMeReReloaded</name>
     <description>Fork of the first authentication plugin for the Bukkit API!</description>
     <inceptionYear>2013</inceptionYear>
-    <url>https://github.com/AuthMe/AuthMeReloaded</url>
+    <url>https://github.com/DarkSpirit006/AuthMeReReloaded</url>
 
     <organization>
-        <name>AuthMe-Team</name>
-        <url>https://github.com/AuthMe</url>
+        <name>DarkSpirit006</name>
+        <url>https://github.com/DarkSpirit006</url>
     </organization>
 
     <scm>
-        <connection>scm:git:https://github.com/AuthMe/AuthMeReloaded.git</connection>
-        <developerConnection>scm:git:git@github.com:AuthMe/AuthMeReloaded.git</developerConnection>
-        <url>https://github.com/AuthMe/AuthMeReloaded</url>
+        <connection>scm:git:https://github.com/DarkSpirit006/AuthMeReReloaded.git</connection>
+        <developerConnection>scm:git:git@github.com:DarkSpirit006/AuthMeReReloaded.git</developerConnection>
+        <url>https://github.com/DarkSpirit006/AuthMeReReloaded</url>
     </scm>
 
     <ciManagement>
@@ -31,7 +31,7 @@
 
     <issueManagement>
         <system>GitHub</system>
-        <url>https://github.com/AuthMe/AuthMeReloaded/issues</url>
+        <url>https://github.com/DarkSpirit006/AuthMeReReloaded/issues</url>
     </issueManagement>
 
     <distributionManagement>
@@ -76,7 +76,7 @@
         <pluginDescription.name>${project.outputName}</pluginDescription.name>
         <pluginDescription.version>${project.versionCode}</pluginDescription.version>
         <pluginDescription.main>${project.groupId}.${project.artifactId}.${pluginDescription.name}</pluginDescription.main>
-        <pluginDescription.authors>sgdc3, games647, Hex3l, krusic22</pluginDescription.authors>
+        <pluginDescription.authors>DarkSpirit006, sgdc3, games647, Hex3l, krusic22</pluginDescription.authors>
 
         <!-- Java libraries -->
         <dependencies.injector.version>1.0</dependencies.injector.version>

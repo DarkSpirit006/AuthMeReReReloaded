@@ -3,10 +3,10 @@
 
 ![Graph](https://bstats.org/signatures/bukkit/AuthMeReloaded-Fork.svg)
 <p align="center">
-  <img src="https://img.shields.io/github/languages/code-size/HaHaWTH/AuthMeReReloaded.svg" alt="Code size"/>
-  <img src="https://img.shields.io/github/repo-size/HaHaWTH/AuthMeReReloaded.svg" alt="GitHub repo size"/>
-  <img src="https://www.codefactor.io/repository/github/hahawth/authmerereloaded/badge" alt="CodeFactor" />
-  <img src="https://img.shields.io/github/downloads/HaHaWTH/AuthMeReReloaded/total" alt="Downloads" />
+  <img src="https://img.shields.io/github/languages/code-size/DarkSpirit006/AuthMeReReloaded.svg" alt="Code size"/>
+  <img src="https://img.shields.io/github/repo-size/DarkSpirit006/AuthMeReReloaded.svg" alt="GitHub repo size"/>
+  <img src="https://www.codefactor.io/repository/github/darkspirit006/authmerereloaded/badge" alt="CodeFactor" />
+  <img src="https://img.shields.io/github/downloads/DarkSpirit006/AuthMeReReloaded/total" alt="Downloads" />
 </p>
 
 **详细改动：**
@@ -33,8 +33,8 @@
  21. 更多......
 
 **下载链接：**
-[Release](https://github.com/HaHaWTH/AuthMeReReloaded/releases/latest)
-[Actions（开发版，使用风险自负！）](https://github.com/HaHaWTH/AuthMeReReloaded/actions/workflows/maven.yml)
+[Release](https://github.com/DarkSpirit006/AuthMeReReloaded/releases/latest)
+[Actions（开发版，使用风险自负！）](https://github.com/DarkSpirit006/AuthMeReReloaded/actions/workflows/maven.yml)
 
 如果您的服务器使用 FRP(内网穿透)，此插件可能会有所帮助 [HAProxy-Detector](https://github.com/HaHaWTH/HAProxy-Detector)
 
@@ -44,8 +44,8 @@
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://api.star-history.com/svg?repos=HaHaWTH/AuthMeReReloaded&type=Date&theme=dark
+      https://api.star-history.com/svg?repos=DarkSpirit006/AuthMeReReloaded&type=Date&theme=dark
     "
   />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HaHaWTH/AuthMeReReloaded&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=DarkSpirit006/AuthMeReReloaded&type=Date" />
 </picture>

@@ -108,4 +108,4 @@ brackets; optional arguments are enclosed in square brackets (`[ ]`).
 
 ---
 
-This page was automatically generated on the [HaHaWTH/AuthMeReReloaded repository](https://github.com/HaHaWTH/AuthMeReReloaded/tree/master/docs/) on Sun Apr 04 21:31:42 CEST 2021
+This page was automatically generated on the [DarkSpirit006/AuthMeReReloaded repository](https://github.com/DarkSpirit006/AuthMeReReloaded/tree/master/docs/) on Sun Apr 04 21:31:42 CEST 2021

@@ -45,5 +45,5 @@ in your config.yml to use the language, or use another language code to start a 
 ---
 
 This page was automatically generated on
-the [HaHaWTH/AuthMeReReloaded repository](https://github.com/HaHaWTH/AuthMeReReloaded/tree/master/docs/) on Fri May 31
+the [DarkSpirit006/AuthMeReReloaded repository](https://github.com/DarkSpirit006/AuthMeReReloaded/tree/master/docs/) on Fri May 31
 22:00:00 CST 2024

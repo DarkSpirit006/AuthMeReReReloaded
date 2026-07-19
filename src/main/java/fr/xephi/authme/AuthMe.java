@@ -222,7 +222,7 @@ public class AuthMe extends JavaPlugin {
         // Purge on start if enabled
         PurgeService purgeService = injector.getSingleton(PurgeService.class);
         purgeService.runAutoPurge();
-        logger.info("GitHub: https://github.com/HaHaWTH/AuthMeReReloaded/");
+        logger.info("GitHub: https://github.com/DarkSpirit006/AuthMeReReloaded/");
         if (settings.getProperty(SecuritySettings.CHECK_FOR_UPDATES)) {
             checkForUpdates();
         }

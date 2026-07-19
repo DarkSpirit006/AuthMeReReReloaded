@@ -2,7 +2,7 @@
 name: ${pluginDescription.name}
 # noinspection YAMLSchemaValidation
 authors: [${pluginDescription.authors}]
-website: https://github.com/HaHaWTH/AuthMeReReloaded/
+website: https://github.com/DarkSpirit006/AuthMeReReloaded/
 description: A fork of AuthMeReloaded that contains bug fixes
 # noinspection YAMLSchemaValidation
 main: ${pluginDescription.main}

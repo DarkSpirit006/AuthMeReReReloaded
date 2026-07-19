@@ -1,14 +1,14 @@
 # AuthMeReReloaded
 **"A fork of the best authentication plugin for the Bukkit modding API!⭐"**
 
-[English](https://github.com/HaHaWTH/AuthMeReReloaded) | [简体中文](https://github.com/HaHaWTH/AuthMeReReloaded/blob/master/README-zh.md)
+[English](https://github.com/DarkSpirit006/AuthMeReReloaded) | [简体中文](https://github.com/DarkSpirit006/AuthMeReReloaded/blob/master/README-zh.md)
 
 ![Graph](https://bstats.org/signatures/bukkit/AuthMeReloaded-Fork.svg)
 <p align="center">
-  <img src="https://img.shields.io/github/languages/code-size/HaHaWTH/AuthMeReReloaded.svg" alt="Code size"/>
-  <img src="https://img.shields.io/github/repo-size/HaHaWTH/AuthMeReReloaded.svg" alt="GitHub repo size"/>
-  <img src="https://www.codefactor.io/repository/github/hahawth/authmerereloaded/badge" alt="CodeFactor" />
-  <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/HaHaWTH/AuthMeReReloaded/total?logo=github&label=GitHub%20Downloads&color=black">
+  <img src="https://img.shields.io/github/languages/code-size/DarkSpirit006/AuthMeReReloaded.svg" alt="Code size"/>
+  <img src="https://img.shields.io/github/repo-size/DarkSpirit006/AuthMeReReloaded.svg" alt="GitHub repo size"/>
+  <img src="https://www.codefactor.io/repository/github/darkspirit006/authmerereloaded/badge" alt="CodeFactor" />
+  <img alt="GitHub Downloads (all assets, all releases)" src="https://img.shields.io/github/downloads/DarkSpirit006/AuthMeReReloaded/total?logo=github&label=GitHub%20Downloads&color=black">
   <img alt="Spiget Downloads" src="https://img.shields.io/spiget/downloads/114010?logo=spigotmc&label=SpigotMC%20Downloads&color=orange">
   <img alt="Modrinth Downloads" src="https://img.shields.io/modrinth/dt/3IEZ9vol?logo=modrinth&label=Modrinth%20Downloads&color=light-green">
   <img alt="Hangar Downloads" src="https://img.shields.io/hangar/dt/AuthMeReReloaded?logo=hangar&label=Hangar%20Downloads&color=white">
@@ -37,8 +37,8 @@
  20. More......
 
 **Download links:**
-[Releases](https://github.com/HaHaWTH/AuthMeReReloaded/releases/latest)
-[Actions(Dev builds, use at your own risk!)](https://github.com/HaHaWTH/AuthMeReReloaded/actions/workflows/maven.yml)
+[Releases](https://github.com/DarkSpirit006/AuthMeReReloaded/releases/latest)
+[Actions(Dev builds, use at your own risk!)](https://github.com/DarkSpirit006/AuthMeReReloaded/actions/workflows/maven.yml)
 
 **Pull Requests and suggestions are welcome!**
 
@@ -50,8 +50,8 @@ Only modifications to AuthMeReloaded is under AGPL-3.0 license, AuthMeReloaded i
   <source
     media="(prefers-color-scheme: dark)"
     srcset="
-      https://api.star-history.com/svg?repos=HaHaWTH/AuthMeReReloaded&type=Date&theme=dark
+      https://api.star-history.com/svg?repos=DarkSpirit006/AuthMeReReloaded&type=Date&theme=dark
     "
   />
-  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=HaHaWTH/AuthMeReReloaded&type=Date" />
+  <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=DarkSpirit006/AuthMeReReloaded&type=Date" />
 </picture>

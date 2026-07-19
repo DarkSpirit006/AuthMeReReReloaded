@@ -73,4 +73,4 @@ The following are the permission nodes that are currently supported by the lates
 
 ---
 
-This page was automatically generated on the [HaHaWTH/AuthMeReReloaded repository](https://github.com/HaHaWTH/AuthMeReReloaded/tree/master/docs/) on Sun Apr 04 21:31:44 CEST 2021
+This page was automatically generated on the [DarkSpirit006/AuthMeReReloaded repository](https://github.com/DarkSpirit006/AuthMeReReloaded/tree/master/docs/) on Sun Apr 04 21:31:44 CEST 2021

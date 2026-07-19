@@ -22,7 +22,7 @@ public class AuthMeExpansion extends PlaceholderExpansion {
 
     @Override
     public @NotNull String getAuthor() {
-        return "HaHaWTH";
+        return "DarkSpirit006";
     }
 
     @Override

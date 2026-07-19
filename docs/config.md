@@ -154,7 +154,7 @@ ExternalBoardOptions:
     # Should we let Bedrock players login automatically?
     # (Requires hookFloodgate to be true & floodgate loaded)
     # (**THIS IS SAFE DO NOT WORRY**)
-    bedrockAutoLogin: false
+    bedrockAutoLogin: true
     purgeData:
       # Should we purge data on non-registered players quit?
       purgeOnQuit: false

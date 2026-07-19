@@ -23,7 +23,7 @@ public final class SecuritySettings implements SettingsHolder {
         "(Requires hookFloodgate to be true & floodgate loaded)",
         "(**THIS IS SAFE DO NOT WORRY**)"})
     public static final Property<Boolean> FORCE_LOGIN_BEDROCK =
-        newProperty("3rdPartyFeature.features.bedrockAutoLogin", false);
+        newProperty("3rdPartyFeature.features.bedrockAutoLogin", true);
 
     @Comment("Should we purge data on non-registered players quit?")
     public static final Property<Boolean> PURGE_DATA_ON_QUIT =

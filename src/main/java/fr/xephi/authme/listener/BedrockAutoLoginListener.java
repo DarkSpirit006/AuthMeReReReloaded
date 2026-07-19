@@ -21,6 +21,12 @@ import java.util.UUID;
 import static org.bukkit.Bukkit.getServer;
 
 public class BedrockAutoLoginListener implements Listener {
+    /**
+     * Password used only to create the backing AuthMe record for a Bedrock account.
+     * Bedrock players authenticate through Floodgate, so this value is never shown to or entered by them.
+     */
+    private static final int BEDROCK_ACCOUNT_PASSWORD_LENGTH = 16;
+
     private final AuthMeApi authmeApi = AuthMeApi.getInstance();
     @Inject
     private BukkitService bukkitService;
@@ -45,10 +51,18 @@ public class BedrockAutoLoginListener implements Listener {
         String name = event.getPlayer().getName();
         UUID uuid = event.getPlayer().getUniqueId();
         bukkitService.runTaskLater(player, () -> {
-            if (isBedrockPlayer(uuid) && !authmeApi.isAuthenticated(player) && authmeApi.isRegistered(name)) {
-                authmeApi.forceLogin(player, true);
+            if (isBedrockPlayer(uuid) && !authmeApi.isAuthenticated(player)) {
+                if (authmeApi.isRegistered(name)) {
+                    authmeApi.forceLogin(player, true);
+                } else {
+                    authmeApi.forceRegister(player, createBedrockAccountPassword(), true);
+                }
                 messages.send(player, MessageKey.BEDROCK_AUTO_LOGGED_IN);
             }
         },20L);
+    }
+
+    private String createBedrockAccountPassword() {
+        return UUID.randomUUID().toString().replace("-", "").substring(0, BEDROCK_ACCOUNT_PASSWORD_LENGTH);
     }
 }

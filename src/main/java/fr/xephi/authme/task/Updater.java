@@ -13,7 +13,7 @@ public class Updater {
     private final String currentVersion;
     private String latestVersion;
     private static boolean isUpdateAvailable = false;
-    private static final String owner = "HaHaWTH";
+    private static final String owner = "DarkSpirit006";
     private static final String repo = "AuthMeReReloaded";
     private static final String UPDATE_URL = "https://api.github.com/repos/" + owner + "/" + repo + "/releases/latest";
 
